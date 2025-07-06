@@ -1,11 +1,28 @@
-# Sample Snack app
+# 🐦 React Native Twitter UI Clone
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This is a simple Twitter-style frontend built with **React Native** and **Expo**, rendered using Snack. The app displays a feed of tweets using a `tweet.js` data file and demonstrates basic layout, styling, and component usage.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## ✨ Features
+- Built with React Native + Expo
+- Frontend-only demo (mock data)
+- Styled tweet cards with profile pic, handle, timestamp, and tweet content
+- Optimized for mobile
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 📲 Live Demo
+Try it instantly in your browser or on your phone:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+👉 [Open in Snack](https://snack.expo.dev/@21562343/tweet)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+No login required. You can preview and edit the code directly in Expo Snack.
+
+## 🛠️ Technologies Used
+- React Native
+- Expo Snack
+- JavaScript
+- Flexbox layout
+- Custom components
+
+## 📁 File Structure
+-App.js # Main entry file
+-tweet.js # Mock tweet data
+
